@@ -24,9 +24,9 @@ Each problem set is placed in its own folder (e.g., `problem_set_0`, `problem_se
 I’m documenting what I learn as I go through each problem set. These notes include key concepts, challenges I faced, my approach, and lessons learned.
 
 - [📝 Problem Set 0 Notes](problem_set_0/NOTES.md)
-- [📝 Problem Set 1 Notes](problem_set_1/NOTES.md) _(coming soon)_
+- [📝 Problem Set 1 Notes](problem_set_1/NOTES.md) 
 - [📝 Problem Set 2 Notes](problem_set_2/NOTES.md) 
----
+- [📝 Problem Set 3 Notes](problem_set_3/NOTES.md) _(coming soon)_
 
 ## 🌱 What I’m Learning
 
