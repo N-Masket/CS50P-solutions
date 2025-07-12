@@ -25,7 +25,7 @@ I’m documenting what I learn as I go through each problem set. These notes inc
 
 - [📝 Problem Set 0 Notes](problem_set_0/NOTES.md)
 - [📝 Problem Set 1 Notes](problem_set_1/NOTES.md) _(coming soon)_
-
+- [📝 Problem Set 2 Notes](problem_set_1/NOTES.md) 
 ---
 
 ## 🌱 What I’m Learning
