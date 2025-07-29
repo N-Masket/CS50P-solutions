@@ -5,6 +5,7 @@ This repository contains my personal solutions to Harvard's **CS50’s Introduct
 I've organized each problem set in a way that reflects my learning progress, understanding of Python concepts, and approach to problem-solving throughout the course.
 
 Each problem set is placed in its own folder (e.g., `problem_set_0`, `problem_set_1`), and inside each of those, you’ll find subfolders for the individual tasks, each containing a solution file (e.g., `meal.py`, `indoor.py`). This structure helps keep everything tidy and easy to follow.
+
 📁 problem_set_0/
 ├── indoor/
 │ └── indoor.py
